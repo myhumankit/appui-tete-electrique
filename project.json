@@ -1,0 +1,37 @@
+{
+    "project": {
+        "full_name": "Appui-tête électrique",
+        "slug": "appui-tete-electrique",
+        "short_description": "Créer un support à bas-coût permettant de soutenir et faire pivoter la tête d'une personne dont l'insuffisance musculaire au niveau du cou ne lui permet ni un soutien ni une rotation naturelle de gauche à droite (la rotation n'étant pas impossible articulairement mais uniquement musculairement).",
+        "lang": "fr",
+        "license": "CC BY",
+        "about": "Créer un support à bas-coût permettant de soutenir et faire pivoter la tête d'une personne dont l'insuffisance musculaire au niveau du cou ne lui permet ni un soutien ni une rotation naturelle de gauche à droite (la rotation n'étant pas impossible articulairement mais uniquement musculairement).",
+        "status": "draft",
+        "links": [
+            {
+                "url": "https://rennes.humanlab.me/projet/appui-tete-electrique/",
+                "text": "page d'accueil du projet sur le GesLab",
+                "fa5_icon": "fas fa-home"
+            },
+            {
+                "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Appui-tete_electrique",
+                "text": "page wiki du projet sur le wiki du Humanlab",
+                "fa5_icon": "fab fa-wikipedia-w"
+            },
+            
+            {
+                "url": "https://github.com/myhumankit/appui-tete-electrique",
+                "text": "code source de la documentation sur GitHub",
+                "fa5_icon": "fab fa-github"
+            }
+        ],
+        "contributors": [
+            {
+                "full_name": "Delphine Bézier",
+                "email": "delphine@myhumankit.org",
+                "github_username": "mnct",
+                "role": "Fabmanager référent"
+            }
+        ]
+    }
+}
