@@ -109,6 +109,113 @@
                         }
                     }
                 ]
+            },
+            {
+                "title": "Mise en place du circuit dans le boîtier du circuit électronique",
+                "duration": 300,
+                "content": "Positionner le circuit dans le boitier de dérivation électrique dont voici la référence :\nhttps://www.leroymerlin.fr/v3/p/produits/boite-de-derivation-etanche-en-saillie-debflex-8-entrees-e29160",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "boitier-derivation-electrique",
+                            "quantity": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Assemblage du bouton ou système choisi pour commander l'appui-tête rotatif",
+                "duration": 300,
+                "content": "Assembler le bouton en se référant au schéma.\nPrévoir une longueur de câble suffisamment longue pour le relier au boîtier qui a été fixé ici à l’arrière du fauteuil\nnous avons tout mis dans une boite de dérivation étanche comme celle ci.\n\n"
+            },
+            {
+                "title": "Fixation de la poulie GT2 bore 5 sur moteur NEMA17",
+                "duration": 300,
+                "content": "Se référer à l'image pour fixer la poulie GT2 bore (trou) 5 20 dents",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "poulie-GT2-bore5-20dents",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "nema17",
+                            "quantity": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Fixation du moteur+poulie sur support moteur",
+                "duration": 300,
+                "content": "Fixer l'ensemble moteur+poulie sur le support moteur  avec 2 vis M3x12.",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "vis-M3-12",
+                            "quantity": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Fixation roulements pour coulissage de la courroie (à préciser)",
+                "duration": 300,
+                "content": "Fixer les 4 roulements à bille F624ZZ mis 2 par 2 avec des rondelles pour servir de bordures comme indiqué sur le schéma.\n\n*2 vis???*",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "roulement-F624ZZ",
+                            "quantity": 4
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "rondelles",
+                            "quantity": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Câblage des capteurs de fin de course (end-stop)",
+                "duration": 300,
+                "content": "Souder les fils sur les capteurs de fin de course (end stop), il s'agit de microswitchs. Prévoir uen longueur de fil suffisante pour aller jusqu'au boitier où se situe le circuit électronique.",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "micro-switch",
+                            "quantity": 2
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "fil-de-cablage-monobrin-0.2",
+                            "quantity": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Montage des capteurs de fin de course sur leur support",
+                "duration": 300,
+                "content": "Assembler les capteurs de fin de courses (microswitchs) à leurs supports avec 2 vis CHc-M2X16 chacun et l'écrou\nassocié",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "vis CHc-M2X16",
+                            "quantity": 2
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ecrous-M2",
+                            "quantity": 2
+                        }
+                    }
+                ]
             }
         ]
     }
