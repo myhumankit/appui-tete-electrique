@@ -49,7 +49,7 @@
             {
                 "title": "Fabrication de la rotule (add photo)",
                 "duration": 360,
-                "content": "En fonction de l’appui-tête de la personne, il faudra ajuster la taille de la rotule.\nSi le modèle correspond à celui-ci rapprochez-vous d’un tourneur pour la réaliser en aluminium 4G suivant le\nmodèle STL (rotule.stl) . Il faudra ensuite la percer et filter (pour une vis CHc-M5X15)pour permettre sa fixation.\nAttention ajout d’un ergo en acier sur l’embase de la rotule parallèle à la vis et qui va également sur le \nsur le support de la rotule pour éviter que la rotule tourne sur elle-même."
+                "content": "En fonction de l’appui-tête de la personne, il faudra ajuster la taille de la rotule.\nSi le modèle correspond à celui-ci rapprochez-vous d’un tourneur pour la réaliser en aluminium 4G suivant le\nmodèle STL (rotule.stl) . Il faudra ensuite la percer et filter (pour une vis CHc-M5X15)pour permettre sa fixation.\nAttention nous avons ajouté un ergo en acier sur l’embase de la rotule parallèle à la vis et qui va également sur le \nsur le support de la rotule pour éviter que la rotule tourne sur elle-même. (voir le fichier STL)"
             },
             {
                 "title": "Fabrication de la plaque de fixation de la rotule (image galet)",
