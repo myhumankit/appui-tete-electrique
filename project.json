@@ -216,6 +216,102 @@
                         }
                     }
                 ]
+            },
+            {
+                "title": "Assemblage support des capteurs de fin de course sur support moteur (add photo)",
+                "duration": 300,
+                "content": "Fixer les support des capteurs de fin de course sur le support moteur (avec 2 vis\nCHc-M3x14 et écrous nylstop associés)",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "vis CHc-M3x14",
+                            "quantity": 2
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ecrous-nylstop-M3",
+                            "quantity": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Préparation des galets (add photo)",
+                "duration": 300,
+                "content": "Introduire de part et d'autre de chaque galet un roulement MR84ZZ. Insérer par la force les roulements (2 par galet) dans les galets. "
+            },
+            {
+                "title": "Assemblage des galets sur la plaque de fixation de la rotule (add photo+précision nb vis)",
+                "duration": 300,
+                "content": "Assembler les galets sur la plaque de fixation de la rotule avec les vis CHc-M5X35 et écrous nylstop",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "vis-CHc-M5X35",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ecrou-nylstop",
+                            "quantity": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Assemblage de la rotule sur la plaque support rotule",
+                "duration": 300,
+                "content": "Assembler la rotule et son ergo sur la plaque avec la vis CHc-M5X15 et sa rondelle (il faut penser à mettre du frein filet si ça se déserre trop souvent).",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "vis-CHc-M5X15",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "rondelle",
+                            "quantity": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Assemblage de plaque de raccord à la fixation de l'appui-tête sur le rail de guidage (add photo+vis ref)",
+                "duration": 300,
+                "content": "Assembler la plaque de raccord à la fixation de l'appui-tête sur le rail de guidage.\nNe pas visser à fond pour que ça coulisse de manière fluide"
+            },
+            {
+                "title": "Fixation de la cornière aluminium sur la plaque de support rotule",
+                "duration": 300,
+                "content": "Fixer la cornière aluminium sur la plaque de support rotule.\nLa corniere de 20x20 sur 31 mm de longueur + 2 vis M3 avec écrous nylstop + 2 vis (ref+longueur???)",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "vis-M3",
+                            "quantity": 2
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "ecrous-nylstop-M3",
+                            "quantity": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Pose, tension et fixation de la courroie (video à ajouter sur youtube)",
+                "duration": 300,
+                "content": "Pose, tension et fixation de la courroie GT2 de largeur 6 mm, pas de 2 mm et longueur environ 35mm ou ajuster la longueur selon la course du rail \n\nVideos à mettre sur youtube : 20171214_144249.MP4 MVI_3218"
+            },
+            {
+                "title": "Video du montage",
+                "duration": 300,
+                "content": "Montage_appui-tete_VID_20180712_161441.MP4"
             }
         ]
     }
