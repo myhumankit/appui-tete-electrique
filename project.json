@@ -35,26 +35,26 @@
         "steps": [
             {
                 "title": "Fabrication du rail",
-                "duration": 360,
-                "content": "Pour fabriquer le rail , prendre la plaque d'aluminium 4G (voir image pour les côtes) et ajuster la courbe à la plieuse\ncomme sur le fichier STL. IL est éventuellement possible de faire un gabarit en carton ou imprimée en 3D pour\nvérifier et ajuster la courbe.\n\nPercer ensuite des trous et les filter pour les butées de fin de course.",
+                "duration": 216000,
+                "content": "Pour fabriquer le rail , prendre la plaque d'aluminium 4G (voir image pour les côtes) et ajuster la courbe à la plieuse comme sur le fichier STL. IL est éventuellement possible de faire un gabarit en carton ou imprimée en 3D pour vérifier et ajuster la courbe.\n\nVoir la maipulation en vidéo ici :\nhttps://youtu.be/oLzzKH7SkhM\nhttps://youtu.be/36KCF7G6KE4\nhttps://youtu.be/mCTa5f2ztH4\n\nPercer ensuite des trous et les filter pour les butées de fin de course dont la position est à ajuster selon le degré de mouvement voulu. ",
                 "media": [
                     {
                         "image": {
                             "url": "images/rail.png",
-                            "caption": ""
+                            "caption": "côtes rail"
                         }
                     }
                 ]
             },
             {
-                "title": "Fabrication de la rotule",
+                "title": "Fabrication de la rotule (add photo)",
                 "duration": 360,
-                "content": "En fonction de l’appui-tête de la personne, il faudra ajuster la taille de la rotule.\nSi le modèle correspond à celui-ci rapprochez-vous d’un tourneur pour la réaliser en aluminium 4G suivant le\nmodèle STL (rotule.stl). Il faudra ensuite la percer et filter (pour une vis CHc-M5X15)pour permettre sa fixation.\nAttention ajout d’un ergo en acier sur l’embase de la rotule parallèle à la vis et qui va également sur le \nsur le support de la rotule pour éviter que la rotule tourne sur elle-même."
+                "content": "En fonction de l’appui-tête de la personne, il faudra ajuster la taille de la rotule.\nSi le modèle correspond à celui-ci rapprochez-vous d’un tourneur pour la réaliser en aluminium 4G suivant le\nmodèle STL (rotule.stl) . Il faudra ensuite la percer et filter (pour une vis CHc-M5X15)pour permettre sa fixation.\nAttention ajout d’un ergo en acier sur l’embase de la rotule parallèle à la vis et qui va également sur le \nsur le support de la rotule pour éviter que la rotule tourne sur elle-même."
             },
             {
-                "title": "Fabrication de la plaque de fixation de la rotule",
+                "title": "Fabrication de la plaque de fixation de la rotule (image galet)",
                 "duration": 300,
-                "content": "Fabrication des 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement\ndu réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 16mm et 10mm en diamètre intérieur et les aléser pour les roulements. "
+                "content": "Fabrication des 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 16mm et 10mm en diamètre intérieur et les aléser pour les roulements. "
             },
             {
                 "title": "Impression des pièces en 3D",
