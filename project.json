@@ -18,7 +18,6 @@
                 "text": "page wiki du projet sur le wiki du Humanlab",
                 "fa5_icon": "fab fa-wikipedia-w"
             },
-            
             {
                 "url": "https://github.com/myhumankit/appui-tete-electrique",
                 "text": "code source de la documentation sur GitHub",
@@ -28,9 +27,88 @@
         "contributors": [
             {
                 "full_name": "Delphine Bézier",
+                "role": "Fabmanager référent",
                 "email": "delphine@myhumankit.org",
-                "github_username": "mnct",
-                "role": "Fabmanager référent"
+                "github_username": "mnct"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Fabrication du rail",
+                "duration": 360,
+                "content": "Pour fabriquer le rail , prendre la plaque d'aluminium 4G (voir image pour les côtes) et ajuster la courbe à la plieuse\ncomme sur le fichier STL. IL est éventuellement possible de faire un gabarit en carton ou imprimée en 3D pour\nvérifier et ajuster la courbe.\n\nPercer ensuite des trous et les filter pour les butées de fin de course.",
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/rail.png",
+                            "caption": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Fabrication de la rotule",
+                "duration": 360,
+                "content": "En fonction de l’appui-tête de la personne, il faudra ajuster la taille de la rotule.\nSi le modèle correspond à celui-ci rapprochez-vous d’un tourneur pour la réaliser en aluminium 4G suivant le\nmodèle STL (rotule.stl). Il faudra ensuite la percer et filter (pour une vis CHc-M5X15)pour permettre sa fixation.\nAttention ajout d’un ergo en acier sur l’embase de la rotule parallèle à la vis et qui va également sur le \nsur le support de la rotule pour éviter que la rotule tourne sur elle-même."
+            },
+            {
+                "title": "Fabrication de la plaque de fixation de la rotule",
+                "duration": 300,
+                "content": "Fabrication des 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement\ndu réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 16mm et 10mm en diamètre intérieur et les aléser pour les roulements. "
+            },
+            {
+                "title": "Impression des pièces en 3D",
+                "duration": 300,
+                "content": "Imprimer l’ensemble des pièces situées dans le dossier « à imprimer »\n* Matériau du filament : de péférence ABS ou PLA\n* Paramétrage sur Cura : Densité : 90 % de remplissage, qualité 0.2.\n\nIl s'agit d'imprimer les butées, le support moteur, le support à capteur de fin de course et le capot protecteur"
+            },
+            {
+                "title": "Réalisation du circuit électronique",
+                "duration": 360,
+                "content": "* Schéma électronique (ajouter le bouton on/off et une led )\n* Fichier arduino (code)\n* composants du circuit (carte arduino nano, resistances etc..) : carte big easy driver, 4 résistance de\n1k, 2 end-stop (micro switch) , 1 moteur NEMA 17 42SHD0228 (2v,1.2A,0.4N.m nema 42 stepper\nmotor nema 17), veroboard (plaque d’essai à bande), batterie 12v (du fauteuil),\nFaire le montage du circuit sur la plaque d’essai et le relier à la carte Arduino comme sur le schéma.\nTéléverser le code sur la carte Arduino.\nLa carte arduino est alimentée en 5V depuis la sortie 5V de la carte easy driver.\n\n*Mettre à jour le circuit veroboard avec 24V au lieu de 12V. *",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "Arduino-NANO",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "resistance-1K",
+                            "quantity": 4
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "micro-switch",
+                            "quantity": 2
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "nema17-42SHD0228",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "veroboard",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "batterie-12V",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "carte-big-easy-driver",
+                            "quantity": 1
+                        }
+                    }
+                ]
             }
         ]
     }
