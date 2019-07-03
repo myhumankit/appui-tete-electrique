@@ -35,8 +35,8 @@
         "steps": [
             {
                 "title": "Fabrication du rail",
-                "duration": 216000,
-                "content": "Pour fabriquer le rail , prendre la plaque d'aluminium 4G (voir image pour les côtes) et ajuster la courbe à la plieuse comme sur le fichier STL. IL est éventuellement possible de faire un gabarit en carton ou imprimée en 3D pour vérifier et ajuster la courbe.\n\nVoir la maipulation en vidéo ici :\nhttps://youtu.be/oLzzKH7SkhM\nhttps://youtu.be/36KCF7G6KE4\nhttps://youtu.be/mCTa5f2ztH4\n\nPercer ensuite des trous et les filter pour les butées de fin de course dont la position est à ajuster selon le degré de mouvement voulu. ",
+                "duration": 3600,
+                "content": "Pour fabriquer le rail , prendre la plaque d'aluminium 4G (voir image pour les côtes) et ajuster la courbe à la plieuse comme sur le fichier STL. IL est éventuellement possible de faire un gabarit en carton ou imprimée en 3D pour vérifier et ajuster la courbe.\n\nVoir la manipulation en vidéo ici :\nhttps://youtu.be/oLzzKH7SkhM\nhttps://youtu.be/36KCF7G6KE4\nhttps://youtu.be/mCTa5f2ztH4\n\nPercer ensuite des trous et les filter pour les butées de fin de course dont la position est à ajuster selon le degré de mouvement voulu. ",
                 "media": [
                     {
                         "image": {
