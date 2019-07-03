@@ -35,8 +35,8 @@
         "steps": [
             {
                 "title": "Fabrication du rail",
-                "duration": 3600,
-                "content": "Pour fabriquer le rail , prendre la plaque d'aluminium 4G (voir image pour les côtes) et ajuster la courbe à la plieuse comme sur le fichier STL. IL est éventuellement possible de faire un gabarit en carton ou imprimée en 3D pour vérifier et ajuster la courbe.\n\nVoir la manipulation en vidéo ici :\nhttps://youtu.be/oLzzKH7SkhM\nhttps://youtu.be/36KCF7G6KE4\nhttps://youtu.be/mCTa5f2ztH4\n\nPercer ensuite des trous et les filter pour les butées de fin de course dont la position est à ajuster selon le degré de mouvement voulu. ",
+                "duration": 216000,
+                "content": "Pour fabriquer le rail , prendre la plaque d'aluminium 4G (voir image pour les côtes) et ajuster la courbe à la plieuse comme sur le fichier STL. IL est éventuellement possible de faire un gabarit en carton ou imprimée en 3D pour vérifier et ajuster la courbe.\n\nVoir la maipulation en vidéo ici :\nhttps://youtu.be/oLzzKH7SkhM\nhttps://youtu.be/36KCF7G6KE4\nhttps://youtu.be/mCTa5f2ztH4\n\nPercer ensuite des trous et les filter pour les butées de fin de course dont la position est à ajuster selon le degré de mouvement voulu. ",
                 "media": [
                     {
                         "image": {
@@ -57,9 +57,9 @@
                 "content": "Fabrication des 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 16mm et 10mm en diamètre intérieur et les aléser pour les roulements. "
             },
             {
-                "title": "Impression des pièces en 3D",
+                "title": "Impression des pièces en 3D (faire simulation temps d'impression dans Cura)",
                 "duration": 300,
-                "content": "Imprimer l’ensemble des pièces situées dans le dossier « à imprimer »\n* Matériau du filament : de péférence ABS ou PLA\n* Paramétrage sur Cura : Densité : 90 % de remplissage, qualité 0.2.\n\nIl s'agit d'imprimer les butées, le support moteur, le support à capteur de fin de course et le capot protecteur"
+                "content": "Imprimer l’ensemble des pièces situées dans le dossier « STL/A imprimer »\n* Matériau du filament : de préférence ABS ou PLA \n* Paramétrage sur Cura : Densité : 90 % de remplissage, qualité 0.2.\n\nIl s'agit d'imprimer les butées, le support moteur, le support à capteur de fin de course et le capot protecteur"
             },
             {
                 "title": "Réalisation du circuit électronique",
