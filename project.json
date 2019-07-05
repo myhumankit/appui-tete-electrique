@@ -83,7 +83,7 @@
             {
                 "title": "Réalisation du circuit électronique",
                 "duration": 360,
-                "content": "* Schéma électronique (ajouter le bouton on/off et une led )\n* Fichier arduino (code)\n\nFaire le montage du circuit sur la plaque d’essai et le relier à la carte Arduino comme sur le schéma.\nTéléverser le code sur la carte Arduino.\nLa carte arduino est alimentée en 5V depuis la sortie 5V de la carte easy driver.\n\n*Mettre à jour le circuit veroboard avec 24V au lieu de 12V. *",
+                "content": "* PCB (auquel il faut ajouter le circuit on/off  )\n* Fichier arduino (code)\n\nRéaliser ou faire fabriquer le circuit imprimé en vous référant au schema et PCB (Appui_tete_schema_v1.2.jpg, appui-tete-PCB_v1.2.png) ci-contre.\n\nTéléverser le code sur la carte Arduino.\n\nLa carte arduino est alimentée en 5V depuis la sortie 5V de la carte easy driver. Raccorder le 24V du PCB aux batteries du fauteuil (voir Schema_batterie.jpg).\n\nAjouter le circuit interrupteur ON/OFF led en image ci-contre afin de pouvoir éteindre le dispositif et ne pas consommer de batterie pour rien :)\n\n\n\n\n\n\n\n\n\n",
                 "inputs": [
                     {
                         "component": {
@@ -131,6 +131,26 @@
                         "file": {
                             "name": "appuitete_v3.ino",
                             "url": "code/appuitete_v3_code/appuitete_v3/appuitete_v3.ino"
+                        }
+                    }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/Appui_tete_schema_v1.2.jpg",
+                            "caption": "Schéma"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/appui-tete-PCB_v1.2.png",
+                            "caption": "PCB"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/interrupteur_on_off_led.png",
+                            "caption": "Interrupteur avec témoin LED"
                         }
                     }
                 ]
