@@ -118,7 +118,7 @@
                     {
                         "component": {
                             "slug": "batterie-12V",
-                            "quantity": 1
+                            "quantity": 2
                         }
                     },
                     {
@@ -151,6 +151,12 @@
                         "image": {
                             "url": "images/interrupteur_on_off_led.png",
                             "caption": "Interrupteur avec témoin LED"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/Schema_batterie.jpg",
+                            "caption": "Schéma alimentation sur batteries"
                         }
                     }
                 ]
