@@ -77,7 +77,7 @@
                 "inputs": [
                     {
                         "component": {
-                            "slug": "images/models/A_usiner/galet_perce.stl",
+                            "slug": "models/A_usiner/galet_perce.stl",
                             "quantity": 1
                         }
                     }
