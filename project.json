@@ -73,7 +73,15 @@
             {
                 "title": "Fabrication de la plaque de fixation de la rotule (image galet)",
                 "duration": 300,
-                "content": "Fabrication des 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 16mm et 10mm en diamètre intérieur et les aléser pour les roulements. "
+                "content": "Fabrication des 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 16mm et 10mm en diamètre intérieur et les aléser pour les roulements. ",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "models/A_usiner/galet_perce.stl",
+                            "quantity": 1
+                        }
+                    }
+                ]
             },
             {
                 "title": "Impression des pièces en 3D (faire simulation temps d'impression dans Cura)",
