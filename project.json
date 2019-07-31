@@ -73,7 +73,7 @@
             {
                 "title": "Fabrication de la plaque de fixation de la rotule (image galet)",
                 "duration": 300,
-                "content": "Fabriquer la plaque de fixation de la rotule avec une plieuse en se basant sur le fichier plaquerotule.stl.\n\nFabriquer les 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 15mm et 10mm en diamètre intérieur et les aléser pour les roulements qui viennent se loger aux deux extrémités.\n\n(manque hauteur du roulement)",
+                "content": "Fabriquer la plaque de fixation de la rotule avec une plieuse en se basant sur le fichier plaquerotule.stl.\n\nFabriquer les 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 15mm et 10mm en diamètre intérieur et les aléser pour les roulements qui viennent se loger aux deux extrémités.\n\n**A vérifier: **soit la ref du roulement est fausse soit le schema est faux car en regardant la photo on ne voit pas l'épaulement du roulement qui ressort.\n",
                 "inputs": [
                     {
                         "component": {
