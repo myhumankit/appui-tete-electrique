@@ -71,9 +71,9 @@
                 "content": "En fonction de l’appui-tête de la personne, il faudra ajuster la taille de la rotule.\nSi le modèle correspond à celui-ci rapprochez-vous d’un tourneur pour la réaliser en aluminium 4G suivant le\nmodèle STL (rotule.stl) . Il faudra ensuite la percer et filter (pour une vis CHc-M5X15)pour permettre sa fixation.\nAttention ajout d’un ergo en acier sur l’embase de la rotule parallèle à la vis et qui va également sur le \nsur le support de la rotule pour éviter que la rotule tourne sur elle-même."
             },
             {
-                "title": "Fabrication de la plaque de fixation de la rotule (image galet)",
+                "title": "Fabrication de la plaque de fixation de la rotule et des galets",
                 "duration": 300,
-                "content": "Fabriquer la plaque de fixation de la rotule avec une plieuse en se basant sur le fichier plaquerotule.stl.\n\nFabriquer les 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 15mm et 10mm en diamètre intérieur et les aléser pour les roulements qui viennent se loger aux deux extrémités.\n\n**A vérifier: ** soit la ref du roulement F624-ZZ est fausse soit le schema est faux car en regardant la photo on ne voit pas l'épaulement du roulement qui ressort, soit il n'y a pas de roulement dans les galets!!\n",
+                "content": "Fabriquer la plaque de fixation de la rotule avec une plieuse en se basant sur le fichier plaquerotule.stl.\n\nFabriquer les 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 15mm et 10mm en diamètre intérieur et les aléser pour les roulements qui viennent se loger aux deux extrémités.\n\n\n",
                 "inputs": [
                     {
                         "component": {
@@ -303,7 +303,7 @@
             {
                 "title": "Assemblage des galets sur la plaque de fixation de la rotule (add photo+précision nb vis)",
                 "duration": 300,
-                "content": "Assembler les galets sur la plaque de fixation de la rotule avec les vis CHc-M5X35 et écrous nylstop",
+                "content": "Assembler les galets sur la plaque de fixation de la rotule avec les vis CHc-M4X35 et écrous nylstop M4. Ne pas visser à fond et laisser du jeu pour l'assemblage sur le rail.",
                 "inputs": [
                     {
                         "component": {
@@ -339,9 +339,9 @@
                 ]
             },
             {
-                "title": "Assemblage de plaque de raccord à la fixation de l'appui-tête sur le rail de guidage (add photo+vis ref)",
+                "title": "Assemblage de plaque rotule sur le rail de guidage (add photo+vis ref)",
                 "duration": 300,
-                "content": "Assembler la plaque de raccord à la fixation de l'appui-tête sur le rail de guidage.\nNe pas visser à fond pour que ça coulisse de manière fluide"
+                "content": "Enfiler la plaque rotule sur le rail de guidage.\n\nSerrer les écrous de fixation des galets en ne les serrant pas trop fort pour que le coulissement soit correct.\n\n"
             },
             {
                 "title": "Fixation de la cornière aluminium sur la plaque de support rotule",
@@ -365,7 +365,7 @@
             {
                 "title": "Pose, tension et fixation de la courroie (video à ajouter sur youtube)",
                 "duration": 300,
-                "content": "Pose, tension et fixation de la courroie GT2 de largeur 6 mm, pas de 2 mm et longueur environ 35mm ou ajuster la longueur selon la course du rail \n\nVideos à mettre sur youtube : 20171214_144249.MP4 MVI_3218"
+                "content": "Pose, tension et fixation de la courroie GT2 de largeur 6 mm, pas de 2 mm et longueur environ 35mm ou ajuster la longueur selon la course du rail. La fixer à chaque extrémité en la faisant passer par le trou prévu sur la butée de fin de course, et la fixer avec un cerflex sur le côté extérieur. Les crans de la courroie doivent être orientés vers le rail.\n\nVideos à mettre sur youtube : 20171214_144249.MP4 MVI_3218"
             },
             {
                 "title": "Video du montage",
