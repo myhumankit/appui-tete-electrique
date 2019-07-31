@@ -73,7 +73,7 @@
             {
                 "title": "Fabrication de la plaque de fixation de la rotule (image galet)",
                 "duration": 300,
-                "content": "Fabriquer la plaque de fixation de la rotule avec une plieuse en se basant sur le fichier plaquerotule.stl.\n\nFabriquer les 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 15mm et 10mm en diamètre intérieur et les aléser pour les roulements qui viennent se loger aux deux extrémités.\n\n**A vérifier: **soit la ref du roulement est fausse soit le schema est faux car en regardant la photo on ne voit pas l'épaulement du roulement qui ressort.\n",
+                "content": "Fabriquer la plaque de fixation de la rotule avec une plieuse en se basant sur le fichier plaquerotule.stl.\n\nFabriquer les 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 15mm et 10mm en diamètre intérieur et les aléser pour les roulements qui viennent se loger aux deux extrémités.\n\n**A vérifier: ** soit la ref du roulement F624-ZZ est fausse soit le schema est faux car en regardant la photo on ne voit pas l'épaulement du roulement qui ressort, soit il n'y a pas de roulement dans les galets!!\n",
                 "inputs": [
                     {
                         "component": {
@@ -185,12 +185,12 @@
             {
                 "title": "Assemblage du bouton ou système choisi pour commander l'appui-tête rotatif",
                 "duration": 300,
-                "content": "Assembler le bouton en se référant au schéma.\nPrévoir une longueur de câble suffisamment longue pour le relier au boîtier qui a été fixé ici à l’arrière du fauteuil\nnous avons tout mis dans une boite de dérivation étanche comme celle ci.\n\n"
+                "content": "Assembler le bouton en se référant au schéma. \nPrévoir une longueur de câble suffisamment longue pour le relier au PCB dans le boîtier qui a été fixé ici à l’arrière du fauteuil.\nNous avons tout mis dans une boite de dérivation étanche comme celle ci.\n\n"
             },
             {
                 "title": "Fixation de la poulie GT2 bore 5 sur moteur NEMA17 (ajouter ref vis)",
                 "duration": 300,
-                "content": "Se référer à l'image pour fixer la poulie GT2 bore (trou) 5 20 dents sur le moteur Nema17",
+                "content": "Enfiler la poulie la poulie GT2 bore (trou) 5 20 dents sur l'axe du moteur Nema17. Puis la fixer avec les deux vis sans tête de blocage de la poulie.\n\nSe référer à l'image du schéma global.",
                 "inputs": [
                     {
                         "component": {
