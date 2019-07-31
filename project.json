@@ -220,7 +220,7 @@
                 ]
             },
             {
-                "title": "Fixation roulements pour coulissage de la courroie (à préciser)",
+                "title": "Fixation roulements pour coulissage de la courroie",
                 "duration": 300,
                 "content": "Fixer les 4 roulements à bille F624ZZ mis 2 par 2 en mirroir avec l'épaulement vers l'extérieur, avec des rondelles entre la vis et le roulement, pour éviter de comprimer la partie extérieure du roulement. Et de l'autre coté de la plaque du support moteur, on vient fixer la vis de M4x20 (ou 25) avec un écrou nylstop.\n",
                 "inputs": [
@@ -241,7 +241,7 @@
             {
                 "title": "Câblage des capteurs de fin de course (end-stop)",
                 "duration": 300,
-                "content": "Souder les fils sur les capteurs de fin de course (end stop), il s'agit de microswitchs. Prévoir uen longueur de fil suffisante pour aller jusqu'au boitier où se situe le circuit électronique.",
+                "content": "Souder les fils sur les capteurs de fin de course (end stop), il s'agit de microswitchs. Prévoir une longueur de fil suffisante pour aller jusqu'au boitier où se situe le circuit électronique.",
                 "inputs": [
                     {
                         "component": {
@@ -279,7 +279,7 @@
             {
                 "title": "Assemblage support des capteurs de fin de course sur support moteur (add photo)",
                 "duration": 300,
-                "content": "Fixer les support des capteurs de fin de course sur le support moteur (avec 2 vis\nCHc-M3x14 et écrous nylstop associés)",
+                "content": "Fixer les support des capteurs de fin de course sur le support moteur avec 2 vis CHc-M3x14 qui sont fixées sur le Nema 17.",
                 "inputs": [
                     {
                         "component": {
