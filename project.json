@@ -213,6 +213,32 @@
                             "url": "models/A_imprimer/"
                         }
                     }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/support_moteur.png",
+                            "caption": "Support moteur"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/butees.png",
+                            "caption": "Butées"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/capot.png",
+                            "caption": "Capot"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/support_capteurs_fin_course.png",
+                            "caption": "Support capteurs de fin de course"
+                        }
+                    }
                 ]
             },
             {
