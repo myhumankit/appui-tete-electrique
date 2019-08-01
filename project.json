@@ -66,10 +66,6 @@
             {
                 "full_name": "Jean-François Duguest",
                 "role": "Contributeur"
-            },
-            {
-                "full_name": "Jean-Pierre Legrand",
-                "role": "Contributeur"
             }
         ],
         "steps": [
@@ -108,7 +104,7 @@
                     {
                         "image": {
                             "url": "images/piece_entre_rail_et_fauteuil.png",
-                            "caption": "Pièce entre rail et fixation réglable du fauteuil"
+                            "caption": "pièce entre rail et support appui-tête réglable fixé au fauteuil"
                         }
                     }
                 ]
@@ -162,6 +158,14 @@
                         "file": {
                             "name": "plaquerotule.stl",
                             "url": "models/A_plier/"
+                        }
+                    }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/galets.png",
+                            "caption": ""
                         }
                     }
                 ]
