@@ -123,9 +123,9 @@
                 ],
                 "inputs": [
                     {
-                        "component": {
-                            "slug": "models/A_plier/rail.stl",
-                            "quantity": 1
+                        "file": {
+                            "name": "rail.stl",
+                            "url": "models/A_plier/"
                         }
                     }
                 ]
@@ -136,9 +136,9 @@
                 "content": "En fonction de l’appui-tête de la personne, il faudra ajuster la taille de la rotule.\nSi le modèle correspond à celui-ci rapprochez-vous d’un tourneur pour la réaliser en aluminium 4G suivant le\nmodèle STL (rotule.stl) . Il faudra ensuite la percer et filter (pour une vis CHc-M5X15)pour permettre sa fixation.\nAttention ajout d’un ergo en acier sur l’embase de la rotule parallèle à la vis et qui va également sur le \nsur le support de la rotule pour éviter que la rotule tourne sur elle-même.",
                 "inputs": [
                     {
-                        "component": {
-                            "slug": "models/A_usiner/rotule.stl",
-                            "quantity": 1
+                        "file": {
+                            "name": "rotule.stl",
+                            "url": "models/A_usiner/"
                         }
                     }
                 ]
@@ -149,15 +149,15 @@
                 "content": "Fabriquer la plaque de fixation de la rotule avec une plieuse en se basant sur le fichier plaquerotule.stl.\n\nFabriquer les 4 galets (galets à réa de 5mm -le creux intérieur en largeur, et l’épaulement du réa de 2.5mm)\nTourner en pom C (pom C=matériau plastique) les 4 galets de diamètre extérieur 15mm et 10mm en diamètre intérieur et les aléser pour les roulements qui viennent se loger aux deux extrémités.\n\n\n",
                 "inputs": [
                     {
-                        "component": {
-                            "slug": "models/A_usiner/galet_perce.stl",
-                            "quantity": 1
+                        "file": {
+                            "name": "galet_perce.stl",
+                            "url": "models/A_usiner/"
                         }
                     },
                     {
-                        "component": {
-                            "slug": "models/A_plier/plaquerotule.stl",
-                            "quantity": 1
+                        "file": {
+                            "name": "plaquerotule.stl",
+                            "url": "models/A_plier/"
                         }
                     }
                 ]
@@ -168,27 +168,27 @@
                 "content": "Imprimer l’ensemble des pièces situées dans le dossier « STL/A imprimer »\n* Matériau du filament : de préférence ABS ou PLA \n* Paramétrage sur Cura : Densité : 90 % de remplissage, qualité 0.2.\n\nIl s'agit d'imprimer les butées, le support moteur, le support à capteur de fin de course et le capot protecteur",
                 "inputs": [
                     {
-                        "component": {
-                            "slug": "models/A_imprimer/butees.stl",
-                            "quantity": 1
+                        "file": {
+                            "name": "butees.stl",
+                            "url": "models/A_imprimer/"
                         }
                     },
                     {
-                        "component": {
-                            "slug": "models/A_imprimer/capot.stl",
-                            "quantity": 1
+                        "file": {
+                            "name": "capot.stl",
+                            "url": "models/A_imprimer/"
                         }
                     },
                     {
-                        "component": {
-                            "slug": "models/A_imprimer/support_capteurs_fin_course.stl",
-                            "quantity": 1
+                        "file": {
+                            "name": "support_capteurs_fin_course.stl",
+                            "url": "models/A_imprimer/"
                         }
                     },
                     {
-                        "component": {
-                            "slug": "models/A_imprimer/support_moteur.stl",
-                            "quantity": 1
+                        "file": {
+                            "name": "support_moteur.stl",
+                            "url": "models/A_imprimer/"
                         }
                     }
                 ]
