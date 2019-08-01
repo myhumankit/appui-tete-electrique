@@ -464,6 +464,14 @@
                             "quantity": 2
                         }
                     }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/Fixation_support_fin_de_course_sur_support_moteur.jpg",
+                            "caption": "Fixation support fin de course sur support moteur"
+                        }
+                    }
                 ]
             },
             {
