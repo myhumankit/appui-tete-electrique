@@ -4,7 +4,7 @@
         "slug": "appui-tete-electrique",
         "short_description": "Créer un support à bas-coût permettant de soutenir et faire pivoter la tête d'une personne dont l'insuffisance musculaire au niveau du cou ne lui permet ni un soutien ni une rotation naturelle de gauche à droite (la rotation n'étant pas impossible articulairement mais uniquement musculairement).",
         "lang": "fr",
-        "license": "CC BY",
+        "license": "CC BY-SA",
         "about": "Créer un support à bas-coût permettant de soutenir et faire pivoter la tête d'une personne dont l'insuffisance musculaire au niveau du cou ne lui permet ni un soutien ni une rotation naturelle de gauche à droite (la rotation n'étant pas impossible articulairement mais uniquement musculairement).",
         "status": "draft",
         "links": [
@@ -30,6 +30,42 @@
                 "role": "Fabmanager référent",
                 "email": "delphine@myhumankit.org",
                 "github_username": "mnct"
+            },
+            {
+                "full_name": "Philippe Pacotte",
+                "role": "Contributeur"
+            },
+            {
+                "full_name": "Stéphane Godin",
+                "role": "Contributeur"
+            },
+            {
+                "full_name": "André Bécot",
+                "role": "Contributeur"
+            },
+            {
+                "full_name": "Mathilde Fuchs",
+                "role": "Porteur de projet"
+            },
+            {
+                "full_name": "Yves Le Chevalier",
+                "role": "Contributeur"
+            },
+            {
+                "full_name": "Christian Fromentin",
+                "role": "Contributeur"
+            },
+            {
+                "full_name": "Danke",
+                "role": "Contributeur"
+            },
+            {
+                "full_name": "Francis Esnault",
+                "role": "Contributeur"
+            },
+            {
+                "full_name": "Jean-François Duguest",
+                "role": "Contributeur"
             }
         ],
         "steps": [
@@ -51,6 +87,11 @@
                         }
                     }
                 ]
+            },
+            {
+                "title": "Fabrication de la pièce de liaison entre rail et support réglable de l'appui-tête du fauteuil",
+                "duration": 300,
+                "content": "La pièce de liaison entre le rail et le support réglable de l'appui-tête fixé sur le fauteuil a été réalisé à partir de trois fers plats soudés entre eux.\nSe référer au fichier \"piece entre rail et fauteuil.stl\" "
             },
             {
                 "title": "Fabrication du rail",
