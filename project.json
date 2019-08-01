@@ -99,6 +99,14 @@
                             "url": "models/A_plier"
                         }
                     }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/piece_entre_rail_et_fauteuil.png",
+                            "caption": ""
+                        }
+                    }
                 ]
             },
             {
