@@ -120,12 +120,28 @@
                             "caption": "côtes rail"
                         }
                     }
+                ],
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "models/A_plier/rail.stl",
+                            "quantity": 1
+                        }
+                    }
                 ]
             },
             {
                 "title": "Fabrication de la rotule (add photo)",
                 "duration": 360,
-                "content": "En fonction de l’appui-tête de la personne, il faudra ajuster la taille de la rotule.\nSi le modèle correspond à celui-ci rapprochez-vous d’un tourneur pour la réaliser en aluminium 4G suivant le\nmodèle STL (rotule.stl) . Il faudra ensuite la percer et filter (pour une vis CHc-M5X15)pour permettre sa fixation.\nAttention ajout d’un ergo en acier sur l’embase de la rotule parallèle à la vis et qui va également sur le \nsur le support de la rotule pour éviter que la rotule tourne sur elle-même."
+                "content": "En fonction de l’appui-tête de la personne, il faudra ajuster la taille de la rotule.\nSi le modèle correspond à celui-ci rapprochez-vous d’un tourneur pour la réaliser en aluminium 4G suivant le\nmodèle STL (rotule.stl) . Il faudra ensuite la percer et filter (pour une vis CHc-M5X15)pour permettre sa fixation.\nAttention ajout d’un ergo en acier sur l’embase de la rotule parallèle à la vis et qui va également sur le \nsur le support de la rotule pour éviter que la rotule tourne sur elle-même.",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "models/A_usiner/rotule.stl",
+                            "quantity": 1
+                        }
+                    }
+                ]
             },
             {
                 "title": "Fabrication de la plaque de fixation de la rotule et des galets",
@@ -137,13 +153,45 @@
                             "slug": "models/A_usiner/galet_perce.stl",
                             "quantity": 1
                         }
+                    },
+                    {
+                        "component": {
+                            "slug": "models/A_plier/plaquerotule.stl",
+                            "quantity": 1
+                        }
                     }
                 ]
             },
             {
                 "title": "Impression des pièces en 3D (faire simulation temps d'impression dans Cura)",
                 "duration": 300,
-                "content": "Imprimer l’ensemble des pièces situées dans le dossier « STL/A imprimer »\n* Matériau du filament : de préférence ABS ou PLA \n* Paramétrage sur Cura : Densité : 90 % de remplissage, qualité 0.2.\n\nIl s'agit d'imprimer les butées, le support moteur, le support à capteur de fin de course et le capot protecteur"
+                "content": "Imprimer l’ensemble des pièces situées dans le dossier « STL/A imprimer »\n* Matériau du filament : de préférence ABS ou PLA \n* Paramétrage sur Cura : Densité : 90 % de remplissage, qualité 0.2.\n\nIl s'agit d'imprimer les butées, le support moteur, le support à capteur de fin de course et le capot protecteur",
+                "inputs": [
+                    {
+                        "component": {
+                            "slug": "models/A_imprimer/butees.stl",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "models/A_imprimer/capot.stl",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "models/A_imprimer/support_capteurs_fin_course.stl",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "component": {
+                            "slug": "models/A_imprimer/support_moteur.stl",
+                            "quantity": 1
+                        }
+                    }
+                ]
             },
             {
                 "title": "Réalisation du circuit électronique",
