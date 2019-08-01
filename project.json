@@ -26,6 +26,10 @@
         ],
         "contributors": [
             {
+                "full_name": "Mathilde Fuchs",
+                "role": "Porteur de projet"
+            },
+            {
                 "full_name": "Delphine Bézier",
                 "role": "Fabmanager référent",
                 "email": "delphine@myhumankit.org",
@@ -42,10 +46,6 @@
             {
                 "full_name": "André Bécot",
                 "role": "Contributeur"
-            },
-            {
-                "full_name": "Mathilde Fuchs",
-                "role": "Porteur de projet"
             },
             {
                 "full_name": "Yves Le Chevalier",
