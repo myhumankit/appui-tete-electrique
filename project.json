@@ -91,7 +91,15 @@
             {
                 "title": "Fabrication de la pièce de liaison entre rail et support réglable de l'appui-tête du fauteuil",
                 "duration": 300,
-                "content": "La pièce de liaison entre le rail et le support réglable de l'appui-tête fixé sur le fauteuil a été réalisé à partir de trois fers plats soudés entre eux.\nSe référer au fichier \"piece entre rail et fauteuil.stl\" "
+                "content": "La pièce de liaison entre le rail et le support réglable de l'appui-tête fixé sur le fauteuil a été réalisé à partir de trois fers plats soudés entre eux.\nSe référer au fichier \"piece entre rail et fauteuil.stl\" ",
+                "inputs": [
+                    {
+                        "file": {
+                            "name": "support entre rail et fauteuil.stl",
+                            "url": "models/A_plier"
+                        }
+                    }
+                ]
             },
             {
                 "title": "Fabrication du rail",
