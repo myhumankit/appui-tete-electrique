@@ -66,6 +66,10 @@
             {
                 "full_name": "Jean-François Duguest",
                 "role": "Contributeur"
+            },
+            {
+                "full_name": "Jean-Pierre Legrand",
+                "role": "Contributeur"
             }
         ],
         "steps": [
@@ -104,7 +108,7 @@
                     {
                         "image": {
                             "url": "images/piece_entre_rail_et_fauteuil.png",
-                            "caption": ""
+                            "caption": "Pièce entre rail et fixation réglable du fauteuil"
                         }
                     }
                 ]
