@@ -148,6 +148,18 @@
                             "url": "images/rotule.png",
                             "caption": "Rotule"
                         }
+                    },
+                    {
+                        "image": {
+                            "url": "images/usinage_rotule.jpg",
+                            "caption": "Usinage rotule"
+                        }
+                    },
+                    {
+                        "image": {
+                            "url": "images/rotule_usinee.jpg",
+                            "caption": "Rotule usinée avec vis"
+                        }
                     }
                 ]
             },
