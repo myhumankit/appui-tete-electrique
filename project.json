@@ -351,7 +351,7 @@
             {
                 "title": "Mise en place du circuit dans le boîtier du circuit électronique",
                 "duration": 300,
-                "content": "Positionner le circuit dans le boitier de dérivation électrique dont voici la référence :\nhttps://www.leroymerlin.fr/v3/p/produits/boite-de-derivation-etanche-en-saillie-debflex-8-entrees-e29160",
+                "content": "Positionner le circuit dans le boitier de dérivation électrique étanche dont voici la référence :\nhttps://www.leroymerlin.fr/v3/p/produits/boite-de-derivation-etanche-en-saillie-debflex-8-entrees-e29160\n\nCe boitier sera fixé à l'arrière du fauteuil.",
                 "inputs": [
                     {
                         "component": {
@@ -364,7 +364,7 @@
             {
                 "title": "Assemblage du bouton ou système choisi pour commander l'appui-tête rotatif",
                 "duration": 300,
-                "content": "Assembler le bouton en se référant au schéma. \nPrévoir une longueur de câble suffisamment longue pour le relier au PCB dans le boîtier qui a été fixé ici à l’arrière du fauteuil.\nNous avons tout mis dans une boite de dérivation étanche comme celle ci.\n\n"
+                "content": "Assembler le bouton en se référant au schéma. \nPrévoir une longueur de câble suffisamment longue pour le relier au PCB situé dans le boîtier qui a été fixé à l’arrière du fauteuil.\n\n\n"
             },
             {
                 "title": "Fixation de la poulie GT2 bore 5 sur moteur NEMA17 (ajouter ref vis)",
