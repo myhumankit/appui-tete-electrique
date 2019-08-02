@@ -118,6 +118,12 @@
                             "url": "images/piece_entre_rail_et_fauteuil.png",
                             "caption": "pièce entre rail et support appui-tête réglable fixé au fauteuil"
                         }
+                    },
+                    {
+                        "image": {
+                            "url": "images/piece_liaison_rail_support_appui-tete.svg",
+                            "caption": "pièce de liaisonentre rail et support de appui-tete"
+                        }
                     }
                 ]
             },
