@@ -420,7 +420,7 @@
             {
                 "title": "Câblage des capteurs de fin de course (end-stop)",
                 "duration": 300,
-                "content": "Souder les fils sur les capteurs de fin de course (end stop), il s'agit de microswitchs. Prévoir une longueur de fil suffisante pour aller jusqu'au boitier où se situe le circuit électronique.",
+                "content": "Souder les fils sur les capteurs de fin de course (autrement dit end stop ou microswitchs). Prévoir une longueur de fil suffisante pour aller jusqu'au boitier où se situe le circuit électronique.",
                 "inputs": [
                     {
                         "component": {
