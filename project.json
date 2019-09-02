@@ -108,7 +108,7 @@
                     {
                         "file": {
                             "name": "support entre rail et fauteuil.stl",
-                            "url": "models/A_plier"
+                            "url": "models/A_plier/support entre rail et fauteuil.stl"
                         }
                     }
                 ],
@@ -149,7 +149,7 @@
                     {
                         "file": {
                             "name": "rail.stl",
-                            "url": "models/A_plier/"
+                            "url": "models/A_plier/rail.stl"
                         }
                     }
                 ]
@@ -162,7 +162,7 @@
                     {
                         "file": {
                             "name": "rotule.stl",
-                            "url": "models/A_usiner/"
+                            "url": "models/A_usiner/rotule.stl"
                         }
                     }
                 ],
@@ -195,13 +195,13 @@
                     {
                         "file": {
                             "name": "galet_perce.stl",
-                            "url": "models/A_usiner/"
+                            "url": "models/A_usiner/galet_perce.stl"
                         }
                     },
                     {
                         "file": {
                             "name": "plaquerotule.stl",
-                            "url": "models/A_plier/"
+                            "url": "models/A_plier/plaquerotule.stl"
                         }
                     }
                 ],
