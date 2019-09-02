@@ -228,25 +228,25 @@
                     {
                         "file": {
                             "name": "butees.stl",
-                            "url": "models/A_imprimer/"
+                            "url": "models/A_imprimer/butees.stl"
                         }
                     },
                     {
                         "file": {
                             "name": "capot.stl",
-                            "url": "models/A_imprimer/"
+                            "url": "models/A_imprimer/capot.stl"
                         }
                     },
                     {
                         "file": {
                             "name": "support_capteurs_fin_course.stl",
-                            "url": "models/A_imprimer/"
+                            "url": "models/A_imprimer/support_capteurs_fin_course.stl"
                         }
                     },
                     {
                         "file": {
                             "name": "support_moteur.stl",
-                            "url": "models/A_imprimer/"
+                            "url": "models/A_imprimer/support_moteur.stl"
                         }
                     }
                 ],
