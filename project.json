@@ -22,6 +22,10 @@
                 "url": "https://github.com/myhumankit/appui-tete-electrique",
                 "text": "code source de la documentation sur GitHub",
                 "fa5_icon": "fab fa-github"
+            },
+            {
+                "url": "https://urlz.fr/bjQ7",
+                "text": "Vidéo de présentation de l'appui-tête"
             }
         ],
         "contributors": [
