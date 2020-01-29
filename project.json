@@ -524,6 +524,14 @@
                             "quantity": 1
                         }
                     }
+                ],
+                "media": [
+                    {
+                        "image": {
+                            "url": "images/assemblage_galet_sur_plaque_fixation.jpg",
+                            "caption": "assemblage galets sur plaque de fixation"
+                        }
+                    }
                 ]
             },
             {
