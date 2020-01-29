@@ -221,6 +221,12 @@
                             "url": "images/plaque_rotule.png",
                             "caption": "Plaque rotule"
                         }
+                    },
+                    {
+                        "image": {
+                            "url": "Côtes_galet",
+                            "caption": "Côtes galet"
+                        }
                     }
                 ]
             },
