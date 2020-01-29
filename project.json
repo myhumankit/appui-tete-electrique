@@ -224,7 +224,7 @@
                     },
                     {
                         "image": {
-                            "url": "Cotes_galet.svg",
+                            "url": "images/cotes_galet.svg",
                             "caption": "Côtes galet"
                         }
                     }
@@ -503,7 +503,7 @@
                 ]
             },
             {
-                "title": "Préparation des galets (add photo)",
+                "title": "Préparation des galets ",
                 "duration": 300,
                 "content": "Introduire de part et d'autre de chaque galet un roulement MR84ZZ. Insérer par la force les roulements (2 par galet) dans les galets. "
             },
